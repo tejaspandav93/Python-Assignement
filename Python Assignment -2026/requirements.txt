@@ -1,0 +1,6 @@
+# FastBox Logistics Simulator Requirements
+# The core simulation engine uses 100% Python Standard Library (zero mandatory external dependencies).
+# Optional development and testing tools:
+pytest>=7.0.0
+flake8>=6.0.0
+black>=23.0.0
